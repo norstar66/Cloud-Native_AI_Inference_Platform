@@ -27,5 +27,7 @@ override.tf.json
 .DS_Store
 
 # Local Project References (machine-specific symlinks/links)
-/local-links/
-/_local/
+/local-links/*
+!/local-links/README.md
+/_local/*
+!/_local/README.md
