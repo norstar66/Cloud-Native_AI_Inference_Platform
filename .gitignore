@@ -25,3 +25,7 @@ override.tf.json
 .vscode/
 .idea/
 .DS_Store
+
+# Local Project References (machine-specific symlinks/links)
+/local-links/
+/_local/
